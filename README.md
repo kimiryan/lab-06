@@ -1,3 +1,3 @@
-Name: Kimi Ryan Lim
-CCID: kimiryan
-Student ID: 1807877
+- Name: Kimi Ryan Lim
+- CCID: kimiryan
+- Student ID: 1807877
